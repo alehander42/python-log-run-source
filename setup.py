@@ -2,14 +2,14 @@ from setuptools import setup
 
 setup(
     name='log-run-source',
-    version='0.0.2',
+    version='0.0.3',
     description='A decorator that logs each line',
     author='Alexander Ivanov',
     author_email='alehander42@gmail.com',
     url='https://github.com/alehander42/python-log-run-source',
     download_url='https://github.com/alehander42/python-log-run-source/archive/v0.0.1.tar.gz',
     keywords=['log', 'run'],
-    packages=['log-run-source'],
+    packages=['log_run_source'],
     license='MIT',
     install_requires=[
     ],
